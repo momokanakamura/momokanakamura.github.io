@@ -1,0 +1,34 @@
+body {
+	background-color: #F5EEF8;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+h3 {
+	font-style: italic;
+}
+
+ul {
+	text-align: center;
+	border: 2px solid black;
+	margin: 0 auto;
+	display: block;
+	}
+	
+
+li {
+	margin: 30px;
+	display: inline-block;
+	background-color: blue;
+	color: white;
+}
+
+li:hover {
+	color: yellow;
+}
+
+img {
+	width: 200px;
+}
